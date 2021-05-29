@@ -5,7 +5,7 @@
 ## Java
 
 1. [chubaofs](https://github.com/chubaofs/chubaofs) 为大规模容器平台设计的分布式文件系统
-2. [QMQ](https://github.com/qunarcorp/qmq)QMQ是去哪儿网使用的消息中间件
+2. [QMQ](https://github.com/qunarcorp/qmq) QMQ是去哪儿网使用的消息中间件
 3. [APIJSON](https://github.com/Tencent/APIJSON) APIJSON 是一种专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库
 4. [hutool](https://github.com/dromara/hutool) Hutool是一个小而全的Java工具类库
 
